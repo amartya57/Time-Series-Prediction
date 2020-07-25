@@ -1,0 +1,1 @@
+Predicting monthly champagne sales using ARIMA and SARIMAX model. As the data is seasonal, ARIMA model does not work well, so we use SARIMAX
